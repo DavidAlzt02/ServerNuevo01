@@ -1,0 +1,101 @@
+[18Dec2025 00:01:41.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4446ms or 88 ticks behind
+[18Dec2025 00:03:12.600] [Server thread/WARN] [tombstone/]: The death event of the player MirsWATF was canceled by another mod
+[18Dec2025 00:03:12.601] [Server thread/INFO] [tombstone/]: The player MirsWATF has successfully been saved
+[18Dec2025 00:03:19.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF fell from a high place
+[18Dec2025 00:03:19.091] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MirsWATF with unique ID travelersbackpack.standard_18.12.2025-00.03.19.dat
+[18Dec2025 00:43:06.644] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=57, z=19} BlockPos{x=-1, y=58, z=19}
+[18Dec2025 00:49:41.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23842ms or 476 ticks behind
+[18Dec2025 00:50:36.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MirsWATF lost connection: Disconnected
+[18Dec2025 00:50:36.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF left the game
+[18Dec2025 00:50:36.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33177ms or 663 ticks behind
+[18Dec2025 00:51:48.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MirsWATF[/127.90.202.159:51819] logged in with entity id 38781 at (20.69999998807907, 62.0, 26.69999998807907)
+[18Dec2025 00:51:48.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF joined the game
+[18Dec2025 01:01:41.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15068ms or 301 ticks behind
+[18Dec2025 01:05:35.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7262ms or 145 ticks behind
+[18Dec2025 01:07:47.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MirsWATF: Set own game mode to Creative Mode]
+[18Dec2025 01:08:12.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MirsWATF: Set own game mode to Survival Mode]
+[18Dec2025 01:09:00.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7246ms or 144 ticks behind
+[18Dec2025 01:09:29.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MirsWATF: Set own game mode to Creative Mode]
+[18Dec2025 01:10:09.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MirsWATF: Set own game mode to Survival Mode]
+[18Dec2025 01:14:41.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5626ms or 112 ticks behind
+[18Dec2025 01:19:25.811] [Server thread/WARN] [tombstone/]: The death event of the player MirsWATF was canceled by another mod
+[18Dec2025 01:19:25.813] [Server thread/INFO] [tombstone/]: The player MirsWATF has successfully been saved
+[18Dec2025 01:19:38.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF fell from a high place
+[18Dec2025 01:19:38.272] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MirsWATF with unique ID travelersbackpack.standard_18.12.2025-01.19.38.dat
+[18Dec2025 01:23:23.252] [Server thread/WARN] [tombstone/]: The death event of the player MirsWATF was canceled by another mod
+[18Dec2025 01:23:23.254] [Server thread/INFO] [tombstone/]: The player MirsWATF has successfully been saved
+[18Dec2025 01:23:29.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF fell from a high place
+[18Dec2025 01:23:29.249] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MirsWATF with unique ID travelersbackpack.standard_18.12.2025-01.23.29.dat
+[18Dec2025 01:23:50.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MirsWATF was kicked for floating too long!
+[18Dec2025 01:23:50.092] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MirsWATF lost connection: Disconnected
+[18Dec2025 01:23:50.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF left the game
+[18Dec2025 01:23:50.142] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Dec2025 01:24:11.400] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MirsWATF[/127.90.202.159:57189] logged in with entity id 42484 at (-32.103188567942354, 47.14998983419152, 9.835061888323894)
+[18Dec2025 01:24:11.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF joined the game
+[18Dec2025 01:24:27.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MirsWATF was kicked for floating too long!
+[18Dec2025 01:24:27.089] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MirsWATF lost connection: Flying is not enabled on this server
+[18Dec2025 01:24:27.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF left the game
+[18Dec2025 01:24:52.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MirsWATF[/127.90.202.159:56391] logged in with entity id 42572 at (-32.103188567942354, 33.29997966838304, 9.835061888323894)
+[18Dec2025 01:24:52.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF joined the game
+[18Dec2025 01:25:08.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MirsWATF was kicked for floating too long!
+[18Dec2025 01:25:08.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MirsWATF lost connection: Flying is not enabled on this server
+[18Dec2025 01:25:08.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF left the game
+[18Dec2025 01:25:28.701] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MirsWATF[/127.90.202.159:40327] logged in with entity id 42639 at (-32.103188567942354, 19.44996950257457, 9.835061888323894)
+[18Dec2025 01:25:28.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF joined the game
+[18Dec2025 01:28:50.843] [Server thread/WARN] [tombstone/]: The death event of the player MirsWATF was canceled by another mod
+[18Dec2025 01:28:50.846] [Server thread/INFO] [tombstone/]: The player MirsWATF has successfully been saved
+[18Dec2025 01:28:56.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF was slain by Zombie
+[18Dec2025 01:28:56.861] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MirsWATF with unique ID travelersbackpack.standard_18.12.2025-01.28.56.dat
+[18Dec2025 01:29:19.890] [Server thread/WARN] [tombstone/]: The death event of the player MirsWATF was canceled by another mod
+[18Dec2025 01:29:19.900] [Server thread/INFO] [tombstone/]: The player MirsWATF has successfully been saved
+[18Dec2025 01:29:25.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF was slain by Trembler
+[18Dec2025 01:29:25.782] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MirsWATF with unique ID travelersbackpack.standard_18.12.2025-01.29.25.dat
+[18Dec2025 01:29:37.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF has made the advancement [Spin to Win]
+[18Dec2025 01:30:43.940] [Server thread/WARN] [tombstone/]: The death event of the player MirsWATF was canceled by another mod
+[18Dec2025 01:30:43.942] [Server thread/INFO] [tombstone/]: The player MirsWATF has successfully been saved
+[18Dec2025 01:30:50.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF fell from a high place
+[18Dec2025 01:30:50.233] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MirsWATF with unique ID travelersbackpack.standard_18.12.2025-01.30.50.dat
+[18Dec2025 01:36:33.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=58, z=17} BlockPos{x=3, y=59, z=17}
+[18Dec2025 01:49:21.690] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MirsWATF lost connection: Disconnected
+[18Dec2025 01:49:21.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF left the game
+[18Dec2025 01:49:54.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Dec2025 01:49:54.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sssstop<--[HERE]
+[18Dec2025 01:49:57.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Dec2025 01:49:57.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Dec2025 01:49:57.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Dec2025 01:49:57.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Dec2025 01:49:58.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Dec2025 01:49:58.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/threateningly_mobs:distortion_dimension
+[18Dec2025 01:49:58.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[18Dec2025 01:49:58.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[18Dec2025 01:49:58.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[18Dec2025 01:49:58.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[18Dec2025 01:49:58.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Dec2025 01:49:58.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[18Dec2025 01:49:58.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/gamma_creatures:gamma_dimension
+[18Dec2025 01:49:58.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[18Dec2025 01:49:58.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[18Dec2025 01:49:58.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[18Dec2025 01:49:58.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[18Dec2025 01:49:58.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[18Dec2025 01:49:58.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[18Dec2025 01:49:58.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[18Dec2025 01:49:58.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Dec2025 01:49:58.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Dec2025 01:49:58.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (distortion_dimension): All chunks are saved
+[18Dec2025 01:49:58.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[18Dec2025 01:49:58.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[18Dec2025 01:49:58.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[18Dec2025 01:49:58.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[18Dec2025 01:49:58.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Dec2025 01:49:58.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[18Dec2025 01:49:58.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gamma_dimension): All chunks are saved
+[18Dec2025 01:49:58.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[18Dec2025 01:49:58.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[18Dec2025 01:49:58.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[18Dec2025 01:49:58.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[18Dec2025 01:49:58.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[18Dec2025 01:49:58.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[18Dec2025 01:49:58.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[18Dec2025 01:49:58.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Dec2025 01:49:58.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
